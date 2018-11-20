@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1008127d-d052-4ba1-a893-f9944b7e9ba1",
+            "Value": {
+                "id": "1606d545-ed5c-4552-9db7-f7d932817ca4",
+                "resourcePath": "objects\\object_controller\\object_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "10fac1f2-8407-4c94-8941-fce94d2de74e",
             "Value": {
                 "id": "96c7b116-b49e-4f35-bb5f-f74ef2e0881a",
@@ -68,6 +76,14 @@
                 "id": "7279a32b-f035-4ffe-9504-57a788dd92d2",
                 "resourcePath": "sprites\\spr_asteroid\\spr_asteroid.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "157cb66a-d06b-479a-99c7-38dc3cc985f2",
+            "Value": {
+                "id": "654e00a1-f6bd-497e-afbb-0fedb8e66361",
+                "resourcePath": "fonts\\font_in_game\\font_in_game.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -140,6 +156,14 @@
                 "id": "072f08fd-6027-4ee3-b720-9f4875adc6ab",
                 "resourcePath": "views\\559c5bcc-e065-45f0-8a70-ac09cd5da572.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6a8ba06f-2e70-4905-b177-b342da55ca1c",
+            "Value": {
+                "id": "fda2ec3c-ed43-446c-b264-688cbbd2924e",
+                "resourcePath": "timelines\\timeline_main_room\\timeline_main_room.yy",
+                "resourceType": "GMTimeline"
             }
         },
         {
