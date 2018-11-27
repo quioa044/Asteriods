@@ -15,7 +15,7 @@ instance_destroy();
 /// @DnDApplyTo : 1008127d-d052-4ba1-a893-f9944b7e9ba1
 /// @DnDArgument : "score" "40"
 /// @DnDArgument : "score_relative" "1"
-with(object_controller) {
+with(obj_controller) {
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
 __dnd_score += real(40);
 }
