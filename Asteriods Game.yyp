@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "5ff3d4f7-1ae3-4845-b643-1e4bf6e68fec",
+            "Value": {
+                "id": "5a63a87f-848a-4e07-9bb3-19381ec9825a",
+                "resourcePath": "rooms\\rm_game4\\rm_game4.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "67311902-f870-44b4-8b49-db628038e61a",
             "Value": {
                 "id": "806a1d0b-2c12-40a1-98af-614ae6a3c1eb",
@@ -215,11 +223,27 @@
             }
         },
         {
+            "Key": "a36a8364-697f-4258-8665-8768bd4afbe6",
+            "Value": {
+                "id": "f11649d9-8dbc-4238-ab50-4faa5c873f08",
+                "resourcePath": "rooms\\rm_game_end\\rm_game_end.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "a4eff11c-094b-4792-adc0-3a05558b3660",
             "Value": {
                 "id": "193562ec-636c-4285-9518-368705233e48",
                 "resourcePath": "views\\a4eff11c-094b-4792-adc0-3a05558b3660.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a57da460-25ba-41e1-a365-771db7f84ea7",
+            "Value": {
+                "id": "a4fcd1a3-cfa4-4432-ba20-6ca7a42fd757",
+                "resourcePath": "objects\\obj_asteroid_boss\\obj_asteroid_boss.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -276,6 +300,14 @@
                 "id": "7566295f-59c8-4859-ab20-597b28bc9fcf",
                 "resourcePath": "objects\\obj_player\\obj_player.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d91dbc31-9452-4be9-967d-baf119b0a0be",
+            "Value": {
+                "id": "6db49d1c-f5f4-4829-92bf-7d740b576af7",
+                "resourcePath": "sprites\\sprite7\\sprite7.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
