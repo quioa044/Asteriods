@@ -55,14 +55,6 @@
             }
         },
         {
-            "Key": "1008127d-d052-4ba1-a893-f9944b7e9ba1",
-            "Value": {
-                "id": "1606d545-ed5c-4552-9db7-f7d932817ca4",
-                "resourcePath": "objects\\obj_controller\\obj_controller.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "10fac1f2-8407-4c94-8941-fce94d2de74e",
             "Value": {
                 "id": "96c7b116-b49e-4f35-bb5f-f74ef2e0881a",
@@ -111,6 +103,14 @@
             }
         },
         {
+            "Key": "3085bef9-a474-470f-9df5-dc57a54ddb43",
+            "Value": {
+                "id": "bd351b6f-88c5-4bbc-ba90-140d33092bc0",
+                "resourcePath": "rooms\\rm_game3\\rm_game3.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "319cfa22-a2c4-483c-9cd3-60428eccc987",
             "Value": {
                 "id": "fb54bc51-e9fe-43f9-918e-d91417ae1132",
@@ -127,10 +127,10 @@
             }
         },
         {
-            "Key": "3780c649-0fc4-4e0c-9ae5-7d49aae88103",
+            "Key": "44e68def-d2da-491f-9a19-5f397bede979",
             "Value": {
-                "id": "34ce0d27-db0c-4285-ab46-9a87761a4341",
-                "resourcePath": "objects\\obj_alien\\obj_alien.yy",
+                "id": "8c32965d-eafd-42e4-b989-5c3f8c58a1f0",
+                "resourcePath": "objects\\obj_controller2\\obj_controller2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -191,19 +191,27 @@
             }
         },
         {
+            "Key": "67311902-f870-44b4-8b49-db628038e61a",
+            "Value": {
+                "id": "806a1d0b-2c12-40a1-98af-614ae6a3c1eb",
+                "resourcePath": "sprites\\sprite_ufo\\sprite_ufo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6a3f1151-eada-4d25-88cd-11fd1f8b9db3",
+            "Value": {
+                "id": "c174469f-45c9-45f9-a363-21a66329135c",
+                "resourcePath": "objects\\obj_asteroid_mini1\\obj_asteroid_mini1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "729623b7-a10d-4963-900a-410ef17fd766",
             "Value": {
                 "id": "25e4c391-0430-4215-ae84-c71348e0e4af",
                 "resourcePath": "views\\729623b7-a10d-4963-900a-410ef17fd766.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "8d78fb88-0c8d-4da9-9eb3-40d21096bf44",
-            "Value": {
-                "id": "7e193b7c-50ac-4cce-844f-ca7d11033011",
-                "resourcePath": "sprites\\sprite_alien\\sprite_alien.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -228,6 +236,14 @@
                 "id": "cf4a2c82-8794-46ce-92a0-2bc35337e2bc",
                 "resourcePath": "views\\adaa1277-9369-48b1-a926-863c4ae5d22f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b0495d3d-6342-4a45-bb68-76a820f9ab82",
+            "Value": {
+                "id": "4427c625-b8f8-43dd-b397-752da0f48281",
+                "resourcePath": "sprites\\Sprite_alien\\Sprite_alien.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -268,14 +284,6 @@
                 "id": "26f94957-020a-4dbe-8799-c42893a79139",
                 "resourcePath": "views\\df442569-04ca-4a3c-b5bc-8aab7ff15f68.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "e2401942-641f-4f5b-9846-2bf433cd580f",
-            "Value": {
-                "id": "c08960b2-16da-4fdc-939b-22e113178120",
-                "resourcePath": "sprites\\sprite_ufo\\sprite_ufo.yy",
-                "resourceType": "GMSprite"
             }
         },
         {

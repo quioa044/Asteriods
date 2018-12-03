@@ -12,10 +12,10 @@ instance_destroy();
 /// @DnDAction : YoYo Games.Instance Variables.Set_Score
 /// @DnDVersion : 1
 /// @DnDHash : 21F148AE
-/// @DnDApplyTo : 1008127d-d052-4ba1-a893-f9944b7e9ba1
+/// @DnDApplyTo : 44e68def-d2da-491f-9a19-5f397bede979
 /// @DnDArgument : "score" "40"
 /// @DnDArgument : "score_relative" "1"
-with(obj_controller) {
+with(obj_controller2) {
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
 __dnd_score += real(40);
 }
