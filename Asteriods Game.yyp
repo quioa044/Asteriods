@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "058cf41d-6137-40c9-a18b-df7c889a023a",
+            "Value": {
+                "id": "23da0e14-76b0-4989-a100-7ce8dd49c8e3",
+                "resourcePath": "sprites\\sprite_bullet_enemy\\sprite_bullet_enemy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "090bd736-3749-4886-8a50-29668d4da2e6",
             "Value": {
                 "id": "240c4297-b56d-4e95-9541-2745e8ce3d2b",
@@ -175,6 +183,14 @@
             }
         },
         {
+            "Key": "51d54e74-5878-49fc-914e-0dd58b1f506b",
+            "Value": {
+                "id": "42a4f0e3-31c4-4139-8079-a1c936c05034",
+                "resourcePath": "sprites\\sprite7\\sprite7.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "559c5bcc-e065-45f0-8a70-ac09cd5da572",
             "Value": {
                 "id": "072f08fd-6027-4ee3-b720-9f4875adc6ab",
@@ -220,6 +236,14 @@
                 "id": "25e4c391-0430-4215-ae84-c71348e0e4af",
                 "resourcePath": "views\\729623b7-a10d-4963-900a-410ef17fd766.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7b8a7ee3-56b1-4b12-bdea-d839985486fe",
+            "Value": {
+                "id": "9d5a2848-3541-4362-bc95-694b076d8937",
+                "resourcePath": "objects\\obj_bullet_enemy\\obj_bullet_enemy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -271,6 +295,14 @@
             }
         },
         {
+            "Key": "bcad2320-b766-47be-9a0c-14d39e8d2606",
+            "Value": {
+                "id": "64dbe4ce-27a3-4480-a30e-6e58393b29a6",
+                "resourcePath": "sprites\\sprite9\\sprite9.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c567c25e-a35e-4bc9-ae3a-ebb520f6318f",
             "Value": {
                 "id": "a421cdc2-3d31-4082-840a-479c606b370e",
@@ -300,14 +332,6 @@
                 "id": "7566295f-59c8-4859-ab20-597b28bc9fcf",
                 "resourcePath": "objects\\obj_player\\obj_player.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "d91dbc31-9452-4be9-967d-baf119b0a0be",
-            "Value": {
-                "id": "6db49d1c-f5f4-4829-92bf-7d740b576af7",
-                "resourcePath": "sprites\\sprite7\\sprite7.yy",
-                "resourceType": "GMSprite"
             }
         },
         {

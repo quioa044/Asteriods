@@ -1,3 +1,9 @@
+/// @DnDAction : YoYo Games.Instance Variables.Set_Score
+/// @DnDVersion : 1
+/// @DnDHash : 457D4C4B
+
+__dnd_score = real(0);
+
 /// @DnDAction : YoYo Games.Timelines.Set_Timeline
 /// @DnDVersion : 1
 /// @DnDHash : 42DADBF4
